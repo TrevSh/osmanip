@@ -56,7 +56,7 @@ It can be installed from source or via `vcpkg`. See [this](#install-and-use) sec
 If you want to mention this software in one of your project / articles,
 please [cite it](https://github.com/JustWhit3/osmanip/blob/main/CITATION.cff).
 
-If you use this library please tell me so I can add you to the [list of know projects which use this library](list-of-known-projects-which-use-this-library).
+If you use this library please tell me so I can add you to the [list of known projects which use this library](list-of-known-projects-which-use-this-library).
 
 If you want to contribute to the repository, please
 read [this](https://github.com/JustWhit3/osmanip/blob/main/CONTRIBUTING.md) file before.
